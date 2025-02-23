@@ -8,7 +8,7 @@ Welcome to **TheGamerCoin (TGC)**, the ultimate cryptocurrency for gamers! TGC i
 - **Inflation:** 0.1% per year
 - **Purpose:** Fast, private payments for gamers
 - **Features:** Speed, staking, permissioned access
-- **Creator:** LibertJustin (you!)
+- **Creator:** LibertJustin
 
 ---
 
