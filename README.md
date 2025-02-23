@@ -1,6 +1,6 @@
 # TheGamerCoin (TGC) - README
 
-Welcome to **TheGamerCoin (TGC)**, the ultimate cryptocurrency for gamers! TGC is built for fast payments, privacy, and staking, with permissioned access to ensure a secure gaming ecosystem. This guide will help you create your own blockchain on a Raspberry Pi running Linux, step by step.
+Welcome to **TheGamerCoin (TGC)**, the ultimate cryptocurrency for gamers! TGC is built for fast payments, privacy, and staking, with permissioned access to ensure a secure gaming ecosystem.
 
 - **Token Name:** TheGamerCoin (TGC)
 - **Symbol:** TGC
